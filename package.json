@@ -1,0 +1,17 @@
+{
+  "name": "agents-demo",
+  "version": "1.0.0",
+  "description": "A comprehensive collection of specialized AI agents designed to accelerate and enhance every aspect of rapid development. Each agent is an expert in their domain, ready to be invoked when their expertise is needed.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "convert": "cd copilot-agents && node convert.js"
+  },
+  "keywords": ["ai", "agents", "copilot", "claude", "development"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "js-yaml": "^4.1.0"
+  }
+}
