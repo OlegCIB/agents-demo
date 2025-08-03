@@ -12,3 +12,16 @@ Thumbs.db
 # IDE files
 .vscode/
 .idea/
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.npm
+.yarn-integrity
+
+# Test files
+*.test.js
+*.test.mjs
+test.mjs
